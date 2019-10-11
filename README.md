@@ -3,3 +3,6 @@
 
 
 [https://refind.com/topics/deepfakes](https://refind.com/topics/deepfakes)
+
+
+[https://edition.cnn.com/interactive/2019/01/business/pentagons-race-against-deepfakes/](https://edition.cnn.com/interactive/2019/01/business/pentagons-race-against-deepfakes/)
